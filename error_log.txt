@@ -1,0 +1,42 @@
+2023-05-15 12:40:18,619 - ERROR - Invalid employee record: {'id': 157, 'name_': 'Kellia Barribal', 'datetime_': '', 'department_id': 4, 'job_id': 61}
+2023-05-15 12:40:18,619 - ERROR - Invalid employee record: {'id': 162, 'name_': '', 'datetime_': '2021-04-22T14:31:39Z', 'department_id': 4, 'job_id': 91}
+2023-05-15 12:40:18,623 - ERROR - Invalid employee record: {'id': 340, 'name_': '', 'datetime_': '2022-01-13T21:09:49Z', 'department_id': 4, 'job_id': 45}
+2023-05-15 12:40:18,623 - ERROR - Invalid employee record: {'id': 350, 'name_': '', 'datetime_': '2021-07-13T23:34:40Z', 'department_id': 10, 'job_id': 86}
+2023-05-15 12:40:18,633 - ERROR - Invalid employee record: {'id': 571, 'name_': '', 'datetime_': '2021-11-28T02:28:40Z', 'department_id': 7, 'job_id': 69}
+2023-05-15 12:40:18,634 - ERROR - Invalid employee record: {'id': 623, 'name_': '', 'datetime_': '2022-01-04T17:42:48Z', 'department_id': 7, 'job_id': 48}
+2023-05-15 12:40:18,636 - ERROR - Invalid employee record: {'id': 663, 'name_': 'Catha Gowrie', 'datetime_': '', 'department_id': 4, 'job_id': 85}
+2023-05-15 12:40:18,638 - ERROR - Invalid employee record: {'id': 766, 'name_': '', 'datetime_': '2021-05-31T05:31:53Z', 'department_id': 2, 'job_id': 67}
+2023-05-15 12:40:18,638 - ERROR - Invalid employee record: {'id': 773, 'name_': '', 'datetime_': '2021-11-16T02:34:50Z', 'department_id': 5, 'job_id': 35}
+2023-05-15 12:40:18,640 - ERROR - Invalid employee record: {'id': 789, 'name_': 'Jennine Fakeley', 'datetime_': '', 'department_id': 2, 'job_id': 94}
+2023-05-15 12:40:18,640 - ERROR - Invalid employee record: {'id': 831, 'name_': '', 'datetime_': '2021-10-22T16:30:46Z', 'department_id': 6, 'job_id': 11}
+2023-05-15 12:40:18,643 - ERROR - Invalid employee record: {'id': 937, 'name_': '', 'datetime_': '2021-03-26T20:41:40Z', 'department_id': 3, 'job_id': 60}
+2023-05-15 12:40:18,643 - ERROR - Invalid employee record: {'id': 970, 'name_': '', 'datetime_': '2021-08-08T06:06:40Z', 'department_id': 4, 'job_id': 33}
+2023-05-15 12:40:18,646 - ERROR - Invalid employee record: {'id': 1049, 'name_': '', 'datetime_': '2021-05-08T23:05:13Z', 'department_id': 6, 'job_id': 91}
+2023-05-15 12:40:18,646 - ERROR - Invalid employee record: {'id': 1092, 'name_': 'Floria Bineham', 'datetime_': '', 'department_id': 7, 'job_id': 137}
+2023-05-15 12:40:18,646 - ERROR - Invalid employee record: {'id': 1095, 'name_': 'Lowell Blaber', 'datetime_': '', 'department_id': 9, 'job_id': 141}
+2023-05-15 12:40:18,646 - ERROR - Invalid employee record: {'id': 1130, 'name_': '', 'datetime_': '2021-10-19T08:43:38Z', 'department_id': 1, 'job_id': 128}
+2023-05-15 12:40:18,646 - ERROR - Invalid employee record: {'id': 1170, 'name_': '', 'datetime_': '2021-03-15T10:47:48Z', 'department_id': 7, 'job_id': 130}
+2023-05-15 12:40:18,646 - ERROR - Invalid employee record: {'id': 1195, 'name_': '', 'datetime_': '2021-08-13T09:22:18Z', 'department_id': 10, 'job_id': 54}
+2023-05-15 12:40:18,646 - ERROR - Invalid employee record: {'id': 1252, 'name_': 'Merrily Di Biaggi', 'datetime_': '', 'department_id': 7, 'job_id': 19}
+2023-05-15 12:40:18,653 - ERROR - Invalid employee record: {'id': 1322, 'name_': '', 'datetime_': '2021-03-26T23:44:34Z', 'department_id': 5, 'job_id': 47}
+2023-05-15 12:40:18,653 - ERROR - Invalid employee record: {'id': 1323, 'name_': 'Erv Fazan', 'datetime_': '', 'department_id': 8, 'job_id': 34}
+2023-05-15 12:40:18,655 - ERROR - Invalid employee record: {'id': 1467, 'name_': 'Sully Huc', 'datetime_': '', 'department_id': 8, 'job_id': 148}
+2023-05-15 12:40:18,655 - ERROR - Invalid employee record: {'id': 1483, 'name_': 'Paco Ivain', 'datetime_': '', 'department_id': 5, 'job_id': 41}
+2023-05-15 12:40:18,655 - ERROR - Invalid employee record: {'id': 1493, 'name_': '', 'datetime_': '2021-03-20T10:48:47Z', 'department_id': 10, 'job_id': 153}
+2023-05-15 12:40:18,660 - ERROR - Invalid employee record: {'id': 1686, 'name_': 'Bessy Oakeby', 'datetime_': '', 'department_id': 4, 'job_id': 53}
+2023-05-15 12:40:18,660 - ERROR - Invalid employee record: {'id': 1688, 'name_': '', 'datetime_': '2022-01-20T19:51:12Z', 'department_id': 11, 'job_id': 100}
+2023-05-15 12:40:18,660 - ERROR - Invalid employee record: {'id': 1780, 'name_': 'Annabelle Reilly', 'datetime_': '', 'department_id': 6, 'job_id': 46}
+2023-05-15 12:40:18,660 - ERROR - Invalid employee record: {'id': 1799, 'name_': '', 'datetime_': '2021-03-10T07:35:09Z', 'department_id': 8, 'job_id': 111}
+2023-05-15 12:40:18,660 - ERROR - Invalid employee record: {'id': 1814, 'name_': 'Theodore Sammut', 'datetime_': '', 'department_id': 6, 'job_id': 86}
+2023-05-15 12:40:18,664 - ERROR - Invalid employee record: {'id': 1858, 'name_': '', 'datetime_': '2021-06-28T03:01:01Z', 'department_id': 6, 'job_id': 144}
+2023-05-15 12:40:18,664 - ERROR - Invalid employee record: {'id': 1869, 'name_': 'Cesaro Solomon', 'datetime_': '', 'department_id': 6, 'job_id': 66}
+2023-05-15 12:40:18,667 - ERROR - Invalid employee record: {'id': 1925, 'name_': 'Cary Tothe', 'datetime_': '', 'department_id': 3, 'job_id': 104}
+Error occurred while saving data from hired_employees.csv: 'SpooledTemporaryFile' object has no attribute 'filename'
+2023-05-15 14:32:21,704 - ERROR - Error occurred while creating backup for table departments: Textual column expression 'departments' should be explicitly declared with text('departments'), or use column('departments') for more specificity
+2023-05-15 14:33:57,401 - ERROR - Error occurred while creating backup for table departments: Textual column expression 'departments' should be explicitly declared with text('departments'), or use column('departments') for more specificity
+2023-05-15 14:39:54,301 - ERROR - Error occurred while creating backup for table departments: Textual column expression 'departments' should be explicitly declared with text('departments'), or use column('departments') for more specificity
+2023-05-15 14:40:02,825 - ERROR - Error occurred while creating backup for table departments: Textual column expression 'departments' should be explicitly declared with text('departments'), or use column('departments') for more specificity
+2023-05-15 14:42:26,308 - ERROR - Error occurred while creating backup for table departments: Textual column expression 'departments' should be explicitly declared with text('departments'), or use column('departments') for more specificity
+2023-05-15 14:45:05,956 - ERROR - Error occurred while creating backup for table departments: Textual column expression 'departments' should be explicitly declared with text('departments'), or use column('departments') for more specificity
+2023-05-15 14:46:03,749 - ERROR - Error occurred while creating backup for table departments: Textual column expression 'departments' should be explicitly declared with text('departments'), or use column('departments') for more specificity
+2023-05-15 14:46:43,125 - ERROR - Error occurred while creating backup for table departments: Textual column expression 'departments' should be explicitly declared with text('departments'), or use column('departments') for more specificity
